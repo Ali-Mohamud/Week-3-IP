@@ -13,5 +13,7 @@ body {
 
 .main-container {
     border: solid #FFEDDB;
+    border-radius: 1em;
+    padding: 2em;
    
 }
