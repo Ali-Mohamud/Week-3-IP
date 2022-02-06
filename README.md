@@ -64,3 +64,6 @@ SOFTWARE.
 Slack  - [Ali Mohamud ]
 
 (https://moringaclassroom.slack.com/archives/C02TTF7MR8D)
+
+Figma design - [My Design]
+(https://www.figma.com/file/F0jOFChcQPP0cOiJB5wO0L/javascript-quiz?node-id=0%3A1)
