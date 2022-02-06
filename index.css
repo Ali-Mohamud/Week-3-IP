@@ -9,3 +9,9 @@ body {
     text-align: center;
     padding: 2em;
 }
+
+
+.main-container {
+    border: solid #FFEDDB;
+   
+}
