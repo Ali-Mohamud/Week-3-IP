@@ -34,7 +34,7 @@ This is a landing page of Javascript quiz  website.
 
 * Javascript - for dynamic webpages
 
-* Figma - for designing of the website
+
 
 
 
