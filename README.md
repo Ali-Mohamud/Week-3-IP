@@ -13,3 +13,14 @@ This is a landing page of Javascript quiz  website.
 + [Licence](#licence)
 
 + [Author info](#author-info)
+
+
+## Description
+ This website test the knowledge of our highschool students in javascript
+
+
+## Installations & Requirements
+
+* An access to the internet
+
+* Web browser: chrome, firefox etc
