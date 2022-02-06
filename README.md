@@ -34,6 +34,10 @@ This is a landing page of Javascript quiz  website.
 
 * Javascript - for dynamic webpages
 
+* Figa  - for designing of the website 
+  
+* My figma design - (https://www.figma.com/file/F0jOFChcQPP0cOiJB5wO0L/javascript-quiz?node-id=0%3A1)S
+
 
 
 
