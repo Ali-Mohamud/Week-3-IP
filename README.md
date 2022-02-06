@@ -36,8 +36,7 @@ This is a landing page of Javascript quiz  website.
 
 * Figma - for designing of the website
 
-*[My Design]
-(https://www.figma.com/file/F0jOFChcQPP0cOiJB5wO0L/javascript-quiz?node-id=0%3A1)
+
 
 ## License
 
