@@ -35,5 +35,6 @@ body {
     border: #6db666 1.3em;
     border-radius: 2em;
     text-align: center;
-    
+    padding: 1em;
+    font-size: 2em;
 }
