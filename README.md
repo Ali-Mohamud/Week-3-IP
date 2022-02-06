@@ -34,6 +34,11 @@ This is a landing page of Javascript quiz  website.
 
 * Javascript - for dynamic webpages
 
+* Figma - for designing of the website
+
+*[My Design]
+(https://www.figma.com/file/F0jOFChcQPP0cOiJB5wO0L/javascript-quiz?node-id=0%3A1)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -65,5 +70,4 @@ Slack  - [Ali Mohamud ]
 
 (https://moringaclassroom.slack.com/archives/C02TTF7MR8D)
 
-Figma design - [My Design]
-(https://www.figma.com/file/F0jOFChcQPP0cOiJB5wO0L/javascript-quiz?node-id=0%3A1)
+
